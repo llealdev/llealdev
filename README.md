@@ -14,7 +14,7 @@
     </li>
     <li style="margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="30" height="30" /> 
-      Atualmente estudando <strong>Python e AWS</strong>
+      Atualmente estudando <strong>Python, AWS e Inglês</strong>
     </li>
     <li style="margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="30" height="30" /> 

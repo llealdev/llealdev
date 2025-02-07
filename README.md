@@ -10,7 +10,7 @@
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;">
       <img src="https://img.icons8.com/?size=100&id=N6TVXb8vNRGu&format=png&color=000000" alt="Graduation Cap" width="30" height="30" /> 
-      Estudante de <strong>Técnico em Desenvolvimento de Sistemas</strong>
+      Estudante de <strong> Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA e Técnico em Desenvolvimento de Sistemas</strong>
     </li>
     <li style="margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="30" height="30" /> 

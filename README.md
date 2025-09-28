@@ -11,12 +11,12 @@
 class DataScientist:
     def __init__(self):
         self.name = "Matheus Leal"
-        self.age = 18
+        self.age = 19
         self.education = {
             "🎓 UFBA": "Bacharelado em Ciência e Tecnologia (Machine Learning Focus)",
             "📚 SENAC": "Técnico em Desenvolvimento de Sistemas"
         }
-        self.current_role = "DBA Intern @ Horizon Inovação e Tecnologia"
+        self.current_role = "Business Intelligence Jr @ IPQ Tecnologia LTDA"
         self.goals = [
             "Data Scientist Junior",
             "Machine Learning Engineer"
@@ -25,7 +25,7 @@ class DataScientist:
                 
     def skills(self):
         return {
-            "📊 Data Analysis": ["Python", "SQL", "Power BI", "ETL"],
+            "📊 Data Analysis": ["Python", "SQL", "Power BI", "Superset", "ETL"],
             "🤖 Machine Learning": ["Pandas", "Scikit-learn", "NumPy"],
             "☁️ Cloud & Big Data": ["AWS", "Spark", "Docker"],
             "🗄️ Databases": ["MySQL", "PostgreSQL", "MongoDB"],

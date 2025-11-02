@@ -16,7 +16,7 @@ class DataScientist:
             "🎓 UFBA": "Bacharelado em Ciência e Tecnologia (Machine Learning Focus)",
             "📚 SENAC": "Técnico em Desenvolvimento de Sistemas"
         }
-        self.current_role = "Business Intelligence Jr @ IPQ Tecnologia LTDA"
+        self.current_role = "Analytics Engineer Jr @ IPQ Tecnologia LTDA"
         self.goals = [
             "Data Scientist Junior",
             "Machine Learning Engineer"

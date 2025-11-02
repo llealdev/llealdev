@@ -18,7 +18,6 @@ class DataScientist:
         }
         self.current_role = "Analytics Engineer Jr @ IPQ Tecnologia LTDA"
         self.goals = [
-            "Data Scientist Junior",
             "Machine Learning Engineer"
         ]
         self.passion = "Transformar dados em insights estratégicos"
